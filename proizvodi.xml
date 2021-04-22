@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Proizvodi>
+    <Proizvod>
+        <Kategorija>Mobilni</Kategorija>
+        <Cena valuta="RSD">48.990</Cena>
+        <TekstOglasa>
+			Samsung Galaxy A71 6,7
+			Kamera: 64 MP + 12 MP + 5 MP + 5 MP / 32 MP
+			RAM memorija: 6 GB
+		</TekstOglasa>
+        <Oznake>
+            <Oznaka>Mobilni telefon</Oznaka>
+            <Oznaka>Samsung</Oznaka>
+            <Oznaka>Galaxy A71</Oznaka>
+            <Oznaka>AndroidOS</Oznaka>
+            <Oznaka>128GB</Oznaka>
+        </Oznake>
+        <Akcije>
+            <Akcija1 cena="37.990" datumIsteka="2021-12-26"/>
+            <Akcija2 cena="43.990" datumIsteka="2021-2-15"/>
+            <Akcija3 cena="40.990" datumIsteka="2021-8-12"/>
+        </Akcije>
+    </Proizvod>
+    <Proizvod>
+        <Kategorija>Slušalice</Kategorija>
+        <Cena valuta="RSD">3.499</Cena>
+        <TekstOglasa>
+			Slušalice sa mikrofonom Marvo Scorpion HG8914 Crne/crvene.
+			Slušalice kakve do sada niste videli. Crna i crvena boja kao i najbolji kvalitet. Kompatibilno sa PC, PlayStation 4 i Xbox One.
+		</TekstOglasa>
+        <Oznake>
+            <Oznaka>Marvo</Oznaka>
+            <Oznaka>Slušalice sa mikrofonom</Oznaka>
+            <Oznaka>USB</Oznaka>
+            <Oznaka>3.5mm</Oznaka>
+            <Oznaka>Mikrofon</Oznaka>
+        </Oznake>
+        <Akcije>
+            <Akcija1 cena="1.699" datumIsteka="2021-7-26"/>
+            <Akcija2 cena="1.990" datumIsteka="2021-11-12"/>
+        </Akcije>
+    </Proizvod>
+    <Proizvod>
+        <Kategorija>Playstation 4</Kategorija>
+        <Cena valuta="RSD">40.990</Cena>
+        <TekstOglasa>
+            Playstation 4 Slim 1tb konzola koja ima jedna od najboljih eksluzivnih igara ikada. 
+        </TekstOglasa>
+        <Oznake>
+            <Oznaka>Sony</Oznaka>
+            <Oznaka> 4</Oznaka>
+            <Oznaka>Konzola</Oznaka>
+            <Oznaka>Slim 1tb</Oznaka>
+        </Oznake>
+        <Akcije>
+            
+        </Akcije>
+    </Proizvod>
+</Proizvodi>
+
